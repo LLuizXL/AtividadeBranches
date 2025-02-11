@@ -8,6 +8,8 @@
         public int Forca { get; set; }
         public int Destreza { get; set; }
         public string Classe { get; set; }
+        public int Inteligencia { get; set; }
+        public int Sabedoria { get; set; }
 
     }
 }
