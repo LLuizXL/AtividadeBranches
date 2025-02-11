@@ -7,6 +7,7 @@
         public string Descricao { get; set; }
         public int Forca { get; set; }
         public int Destreza { get; set; }
+        public string Classe { get; set; }
 
     }
 }
