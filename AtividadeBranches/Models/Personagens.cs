@@ -8,5 +8,8 @@
         public int Forca { get; set; }
         public int Destreza { get; set; }
 
+        public int? Nombre { get; set; }
+        public bool EstaVivo { get; set; }
+
     }
 }
